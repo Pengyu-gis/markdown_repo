@@ -1,9 +1,12 @@
 # GIStory 16 | Xiao Huang: From PhD to Profession, A Versatile Scholar's Journey
 
 ## Guest Introduction
+
+
 <p align="center">
   <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/profile_huang.png" alt="Dr. Xiao Huang Profile" width="300"/>
 </p>
+
 **Dr. Xiao Huang** earned his bachelor's degree from Wuhan University in 2015, his master's from the Georgia Institute of Technology in 2016, and his Ph.D. from the University of South Carolina in 2020. He previously served as an assistant professor in the Department of Geosciences at the University of Arkansas and is currently an assistant professor in the Department of Environmental Sciences at Emory University.
 
 His research spans spatiotemporal big data analysis, urban science, public health, and remote sensing algorithm development and applications. With solid academic expertise and an open mindset, he constantly expands collaborative boundaries, explores new academic possibilities, and contributes to solving real-world problems.  
