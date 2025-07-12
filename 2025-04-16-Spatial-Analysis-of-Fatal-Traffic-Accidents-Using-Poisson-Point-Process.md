@@ -1,8 +1,4 @@
----
-tags: Point-process Geospatial-statistics Geospatial-analysis Transportation Public-safety
----
-
-# Spatial-Analysis-of-Fatal-Traffic-Accidents-Using-Poisson-Point-Process
+# Fatal-Traffic-Accidents-Using-Poisson-Point-Process
 
 *With **Xiuchuan Liu** and **Xunan Yang**, two talented Ph.D. students in statistics at the University of South Carolina.*
 
