@@ -9,14 +9,16 @@ tags: ["PhD Journey", "Career", "GeoAI"]
 # GIStory 16 | Xiao Huang: From PhD to Profession, A Versatile Scholar's Journey
 
 ## Guest Introduction
-
+<p align="center">
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/profile_huang.png" alt="Dr. Xiao Huang Profile" width="300"/>
+</p>
 **Dr. Xiao Huang** earned his bachelor's degree from Wuhan University in 2015, his master's from the Georgia Institute of Technology in 2016, and his Ph.D. from the University of South Carolina in 2020. He previously served as an assistant professor in the Department of Geosciences at the University of Arkansas and is currently an assistant professor in the Department of Environmental Sciences at Emory University.
 
 His research spans spatiotemporal big data analysis, urban science, public health, and remote sensing algorithm development and applications. With solid academic expertise and an open mindset, he constantly expands collaborative boundaries, explores new academic possibilities, and contributes to solving real-world problems.  
 **Academic homepage**: [https://www.xiaohuang116.com/](https://www.xiaohuang116.com/)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eca51f0f-0039-4af0-8043-7d0157595a32" alt="Screenshot of Dr. Xiao Huang's academic website" width="296" height="498" />
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig1.png" alt="Screenshot of Dr. Xiao Huang's academic website" width="296" height="498" />
   <br/>
   <em>Figure 1. Screenshot of Dr. Xiao Huang's academic website</em>
 </p>
@@ -30,10 +32,10 @@ On the path of research, even the strongest individual cannot outperform an effi
 Dr. Huang exemplifies this spirit of “team science.” Utilizing GIS and GeoAI, he breaks disciplinary boundaries to work side-by-side with scholars from various domains, co-constructing a richer academic picture.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ad98629-2b4d-4ff7-9d9b-787edca2feff" width="1080" height="316" alt="Banner Image"/>
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig2.png" width="1080" height="316" alt="Banner Image"/>
 </p>
 
-<p align="center"><em>Figure X. [Your caption here]</em></p>
+<p align="center"><em>Figure 2.Dr. Huang and his collaborators</em></p>
 
 
 Geography is no longer confined to “drawing maps”—it has become a super tool supporting health, environment, and social sciences. For example, in studying how “sleep deprivation may lead to obesity,” geographers can use big data to perform spatiotemporal modeling. However, to answer the “why,” public health theories and experiments are indispensable to uncover causality.
@@ -47,7 +49,7 @@ Whether contributing baseline models, supporting data analysis, or designing hig
 > “When you truly add value to your collaborators,” he says, “partnerships become a win–win cycle.” As your network grows, so do your resources—and new opportunities will follow.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9e408c06-2089-4af8-9e55-7789d4d6aca5" width="415" height="276" alt="Dr. Huang’s recent books on GeoAI and urban mobility"/>
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig3.png" width="415" height="276" alt="Dr. Huang’s recent books on GeoAI and urban mobility"/>
 </p>
 
 <p align="center"><em>Figure 3. Dr. Huang’s recent books on GeoAI and urban mobility</em></p>
@@ -60,7 +62,7 @@ Whether contributing baseline models, supporting data analysis, or designing hig
 To ensure research has real-world impact, one must leave the lab and enter the field. To advance a malaria prevention project funded by the Gates Foundation, Dr. Huang led his team to Ethiopia for a rigorous field investigation.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/de2c0a3d-54d3-42eb-bcc9-680a51f10edf" width="415" height="128" alt="Dr. Huang collecting mosquito data in Ethiopia"/>
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig4.png" width="415" height="128" alt="Dr. Huang collecting mosquito data in Ethiopia"/>
 </p>
 
 <p align="center"><em>Figure 4. Dr. Huang collecting mosquito data in Ethiopia</em></p>
@@ -77,7 +79,7 @@ The fieldwork was more than a research task; it was a deeply interdisciplinary a
 They exchanged views on malaria transmission, mosquito monitoring, data sharing, and public health intervention. Using visualizations and high-resolution remote sensing images, Dr. Huang demonstrated how spatial analysis could identify mosquito hotspots—offering a spatial perspective for decision-making.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e1cb3549-c11b-434f-b396-c3d0baaaab06" width="415" height="311" alt="Meeting with Dr. Hiwot Solomon, Ethiopia Ministry of Health"/>
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig5.png" width="415" height="311" alt="Meeting with Dr. Hiwot Solomon, Ethiopia Ministry of Health"/>
 </p>
 
 <p align="center"><em>Figure 5. Meeting with Dr. Hiwot Solomon, Ethiopia Ministry of Health</em></p>
@@ -93,7 +95,7 @@ They exchanged views on malaria transmission, mosquito monitoring, data sharing,
 Research should not remain behind closed doors. To make an impact, it must be shared and seen. Dr. Huang actively updates his academic progress on **LinkedIn**, where he had over **6,300 followers** as of May 2025.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/98174a70-4134-4b00-a544-90404e13f851" width="415" height="262" alt="Dr. Huang's LinkedIn screenshot"/>
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig6.png" width="415" height="262" alt="Dr. Huang's LinkedIn screenshot"/>
 </p>
 
 <p align="center"><em>Figure 6. Dr. Huang's LinkedIn screenshot</em></p>
@@ -158,7 +160,7 @@ That said, CVs and personal statements still play a role. Dr. Huang recalls bein
 One unique story stands out. A master's applicant had been consistently engaging with Dr. Huang on LinkedIn—liking posts, commenting, and sharing ideas via email. Over time, Dr. Huang was impressed by his enthusiasm and invited him to visit in person. That candidate received an offer.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da70329a-e572-4fa1-b7d8-dfd3846e6414" width="246" height="358" alt="Dr. Huang with the master’s student"/>
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig7.png" width="246" height="358" alt="Dr. Huang with the master’s student"/>
 </p>
 
 <p align="center"><em>Figure 7. Dr. Huang with the master’s student</em></p>
@@ -169,7 +171,7 @@ Sometimes, genuine opportunities lie in persistent, sincere communication.
 In student advising, Dr. Huang emphasizes: a good mentor doesn’t design a student’s future but respects their choices and supports their journey. Whether in academia or industry, **the best path is the one that fits.**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec5c80b2-4b3b-4b71-835a-f1bfb6449a6e" width="415" height="299" alt="Dr. Huang with students at the University of Arkansas"/>
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig8.png" width="415" height="299" alt="Dr. Huang with students at the University of Arkansas"/>
 </p>
 
 <p align="center"><em>Figure 8. Dr. Huang with students at the University of Arkansas</em></p>
@@ -199,7 +201,7 @@ As you work through small problems, trace back causes, connect ideas, and refine
 > “Stay curious and reflective—systematic thinking will follow.”
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c006c447-c8d0-4f4f-8e4b-780c34f34a3e" width="415" height="370" alt="Dr. Huang's research big picture"/>
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig9.png" width="415" height="370" alt="Dr. Huang's research big picture"/>
 </p>
 
 <p align="center"><em>Figure 9. Dr. Huang's research big picture</em></p>
@@ -208,7 +210,7 @@ As you work through small problems, trace back causes, connect ideas, and refine
 Doing great research is crucial, but so is connecting with others in your field. Dr. Huang built many lasting collaborations through conferences. Don’t treat them as just presentation venues—use them as social platforms to broaden your academic circle.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c1c13e8d-546c-49a2-b8ed-452deb8d4665" width="1080" height="565" alt="Dr. Huang attending an academic conference"/>
+  <img src="https://github.com/GIS-Info/next-web/raw/main/static/GIStory_images_test/huangxiao/fig10.png" width="1080" height="565" alt="Dr. Huang attending an academic conference"/>
 </p>
 
 <p align="center"><em>Figure 10. Dr. Huang attending an academic conference</em></p>
