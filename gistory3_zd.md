@@ -6,7 +6,7 @@
   <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/zhudi/1.png" alt="Dr. Zhu Di" width="300"/>
 </p>
 
-**Di Zhu**, Assistant Professor and Ph.D. Supervisor at the University of Minnesota–Twin Cities.  
+**Dr. Di Zhu**, Assistant Professor and Ph.D. Supervisor at the University of Minnesota–Twin Cities.  
 He earned his B.Sc. in Science and B.A. in Economics from Peking University in 2014, and his Ph.D. in 2020, also from Peking University. The same year, he joined the University of Minnesota as an Assistant Professor. His research interests include spatial analysis methods, GeoAI, social sensing, and urban complexity.  
 Personal website: [https://www.dizhu-gis.com/](https://www.dizhu-gis.com/)
 
@@ -25,7 +25,7 @@ His main research interest is **GeoAI (Geographic Artificial Intelligence)**, an
   <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/zhudi/3.png" alt="" width="835"/>
 </p>
 
-One of his favorite works is *Spatial interpolation using conditional generative adversarial neural networks*, published in *IJGIS*. Instead of tackling a complex or novel domain, the paper revisited a **foundational GIS problem — spatial interpolation**. Though the concept is familiar to any first-year GIS student, few had sought to refine it. Zhu applied GANs to integrate deep learning with this classic method, enhancing spatial interpolation theory through modern AI approaches.
+One of his favorite works is *Spatial interpolation using conditional generative adversarial neural networks*, published in *IJGIS*. Instead of tackling a complex or novel domain, the paper revisited a **foundational GIS problem — spatial interpolation**. Though the concept is familiar to any first-year GIS student, few had sought to refine it. Dr. Zhu applied GANs to integrate deep learning with this classic method, enhancing spatial interpolation theory through modern AI approaches.
 
 <p align="center">
   <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/zhudi/4.png" alt="" width="400"/>
@@ -36,35 +36,35 @@ Reflecting on the project’s inspiration, he said with a smile:
 The idea for this paper emerged from exactly this kind of simple reflection. As he summarized:  
 > “Question whether ‘obvious’ problems are truly obvious, and you’ll often find new inspiration.”
 
-Zhu also stressed the importance of **theoretical grounding**. Questioning foundational theories sounds easy, but it requires a solid theoretical base. He cautions that many GIS undergraduates in China overemphasize methods and technology while undervaluing theory — an approach that can yield short-term gains but risks long-term pitfalls. In his view, “A skyscraper must be built on solid ground”: a strong theoretical base is essential for sustained research.
+Dr. Zhu also stressed the importance of **theoretical grounding**. Questioning foundational theories sounds easy, but it requires a solid theoretical base. He cautions that many GIS undergraduates in China overemphasize methods and technology while undervaluing theory — an approach that can yield short-term gains but risks long-term pitfalls. In his view, “A skyscraper must be built on solid ground”: a strong theoretical base is essential for sustained research.
 
 ---
 
 ## 02 Becoming an Independent Researcher
 
-Half of our interview time with Zhu was spent discussing **why** and **how** to become an independent researcher.
+Half of our interview time with Dr. Zhu was spent discussing **why** and **how** to become an independent researcher.
 
 <p align="center">
   <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/zhudi/5.jpg" alt="" width="500"/>
 </p>
 
-This emphasis comes from his own journey. As a “Three Peking” student (B.A., M.A., and Ph.D. from PKU), Zhu found the transition from master’s to Ph.D. challenging. During his master’s, his advisor provided clear tasks, projects progressed smoothly, and his enthusiasm for research grew — motivating him to pursue a Ph.D. But doctoral study was different: his advisor no longer provided specific directions. He had to generate and develop his own ideas.
+This emphasis comes from his own journey. As a “Three Peking” student (B.A., M.A., and Ph.D. from PKU), Dr. Zhu found the transition from master’s to Ph.D. challenging. During his master’s, his advisor provided clear tasks, projects progressed smoothly, and his enthusiasm for research grew — motivating him to pursue a Ph.D. But doctoral study was different: his advisor no longer provided specific directions. He had to generate and develop his own ideas.
 
 The turning point came when he sought his advisor’s guidance on a research question, only to find his advisor didn’t have the answer. It dawned on him: **as a doctoral student exploring an unknown frontier, no one understands your work better than you**. This independence — recognizing your work’s value and navigating uncharted territory — is the essence of doctoral growth.
 
-Zhu noted that for job seekers, being an independent researcher is critical. Departments hiring faculty look for someone who can establish their own research niche, not a “senior research assistant” following an advisor’s agenda. Hiring committees want a colleague — an equal partner — who is humble yet confident.
+Dr. Zhu noted that for job seekers, being an independent researcher is critical. Departments hiring faculty look for someone who can establish their own research niche, not a “senior research assistant” following an advisor’s agenda. Hiring committees want a colleague — an equal partner — who is humble yet confident.
 
 <p align="center">
   <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/zhudi/6.png" alt="" width="835"/>
 </p>
 
-How does one achieve independence? Independent thinking and exploratory learning are key, but Zhu believes mindset is paramount. Chinese students, he says, often struggle to detach from an advisor’s “umbrella” and step onto the global stage. Present your work to the world, withstand scrutiny from peers, and make your name known — **not just as “someone’s student”**, but as yourself. At the same time, remain humble and open to learning.
+How does one achieve independence? Independent thinking and exploratory learning are key, but Dr. Zhu believes mindset is paramount. Chinese students, he says, often struggle to detach from an advisor’s “umbrella” and step onto the global stage. Present your work to the world, withstand scrutiny from peers, and make your name known — **not just as “someone’s student”**, but as yourself. At the same time, remain humble and open to learning.
 
 ---
 
 ## 03 An Uncommon Path: From a PKU Ph.D. to a North American Faculty Post
 
-In GIS academia, Zhu’s career move is notable. It’s widely known that U.S.-trained Ph.D.s often find faculty jobs abroad, but the reverse — earning a U.S. faculty position with a non-U.S. Ph.D. — is far harder. Yet Zhu, with all degrees from PKU, secured an Assistant Professor offer from the University of Minnesota the same year he graduated.
+In GIS academia, Dr. Zhu’s career move is notable. It’s widely known that U.S.-trained Ph.D.s often find faculty jobs abroad, but the reverse — earning a U.S. faculty position with a non-U.S. Ph.D. — is far harder. Yet Zhu, with all degrees from PKU, secured an Assistant Professor offer from the University of Minnesota the same year he graduated.
 
 <p align="center">
   <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/zhudi/7.jpg" alt="" width="835"/>
@@ -97,14 +97,14 @@ Networking also plays a role. Conferences such as **AAG** or **CPGIS** offer opp
   <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/zhudi/10.jpg" alt="" width="835"/>
 </p>
 
-Finally, Zhu emphasized **belief in oneself**. Many fail not because of others but because they never try. In summer 2019, while on exchange in the UK, he applied to North American faculty posts despite peers advising against it — and won the offer.  
+Finally, Dr. Zhu emphasized **belief in oneself**. Many fail not because of others but because they never try. In summer 2019, while on exchange in the UK, he applied to North American faculty posts despite peers advising against it — and won the offer.  
 > “When you believe you can do it, don’t hold back for other reasons,” he reflected.
 
 ---
 
 ## 04 Message to Students
 
-Zhu left three succinct pieces of advice:
+Dr. Zhu left three succinct pieces of advice:
 
 - **Undergraduates** — *Do what you want to do.*  
   University is a golden period for exploration, experiences, and memories that last a lifetime. Be bold in pursuing your interests.
