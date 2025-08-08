@@ -1,11 +1,12 @@
 # GIStory 4 | Lessons Beyond the Page: The Story of the GIS Application Skills Competition
 
 
-## Guest Introduction
+## Guests Introduction
 
 <p align="center">
   <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/gisdasai/7.png" alt="" width="800"/><br>
 </p>
+
 - **Bingqi Xie** — Class of 2019, Honors Program in Geographic Science, East China Normal University (ECNU).  
   Recommended for admission to graduate study at ECNU.
 
@@ -16,7 +17,6 @@
 
 - **Weiya Kong** — Class of 2019, Geographic Information Science, ECNU.  
   Recommended for admission to Peking University Shenzhen Graduate School.
-
 
 
 ## 01 First Encounter: Tradition and Continuity
