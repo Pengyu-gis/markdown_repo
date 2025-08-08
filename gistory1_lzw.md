@@ -1,4 +1,4 @@
-# GIStory Issue 1 | Zhewei Liu: Choosing the Right Track for Yourself
+# GIStory 1 | Zhewei Liu: Choosing the Right Track for Yourself
 
 <p align="center">
   <img width="300" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/1.jpg" />
