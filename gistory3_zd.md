@@ -1,4 +1,4 @@
-# GIStory 3 | Di Zhu: From a Peking University to a North American Faculty
+# GIStory 3 | Dr. Di Zhu: From a Peking University to a North American Faculty
 
 ## Guest Introduction
 
