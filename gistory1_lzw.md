@@ -20,7 +20,7 @@ The **first coincidence** was his connection with Wuhan University — and, due 
 “When I first came to Wuhan University to study remote sensing, I actually had little understanding of the discipline,” Liu admitted. Initially, he thought it was mainly about robotics. Later, after some research, he assumed it was about making satellites. Only after he started studying the subject in earnest did he realize what it actually entailed. In his words, his choice at the time was “somewhat blind.” Yet, as his understanding deepened, his interest grew.
 
 <p align="center">
-  <img width="1000" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/2.jpg" />
+  <img width="835" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/2.jpg" />
 </p>
 
 The **second coincidence** was participating in the **Excellence Engineer Program** during his undergraduate years. This program, jointly run by Wuhan University and industry partners, offered him an internship at the Wuhan Surveying and Design Institute. Whereas coursework often emphasized fundamentals over specialization and theory over practice, this industry experience balanced the gap.
@@ -28,7 +28,7 @@ The **second coincidence** was participating in the **Excellence Engineer Progra
 The **third coincidence** was his decision to study abroad. For many, studying overseas is full of uncertainty. In his first year, Liu never considered it an option and might have stayed at Wuhan University or another Chinese university. However, one day he came across a booklet published by the university’s International Exchange Office sharing study-abroad experiences. A story by a senior pursuing a Ph.D. at Yale deeply inspired him. He realized that after years of domestic education, experiencing a different learning and research environment could offer fresh perspectives and growth. Shortly afterward, a professor from PolyU visited Wuhan University, and after an in-depth discussion, Liu decided to pursue his Ph.D. there.
 
 <p align="center">
-  <img width="1000" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/3.jpg" />
+  <img width="835" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/3.jpg" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ Liu’s main research focus is **GIS + Human Mobility** — using geo-tagged big
 Among his works, Liu is most proud of a paper not in a GIS top journal but in *Applied Geography* (2021): *Detecting home countries of social media users with machine-learned ranking approach: A case study in Hong Kong*. The study tackled **residence detection** — inferring someone’s home country from their activity trajectories. Existing methods often lacked precision. Liu innovatively reframed it as a **ranking problem**, using machine learning to rank countries visited by users. This novel approach improved accuracy and offered a fresh perspective on the task.
 
 <p align="center">
-  <img width="1000" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/4.jpg" />
+  <img width="835" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/4.jpg" />
 </p>
 
 The work was not without challenges. Chief among them was the dataset. Training a machine learning model required large volumes of data, and preparing these — especially cleaning and labeling — took months. During a critical stage of the COVID-19 pandemic in Hong Kong, Liu secluded himself at home and spent over two months labeling data, laying the groundwork for success.  
@@ -55,13 +55,13 @@ Liu’s research also stands out for its **wide collaborative network**. Beyond 
 Reflecting on his Ph.D. journey, Liu spoke candidly about pressure and mindset adjustment. Few have a completely smooth Ph.D. experience, and he was no exception. Early on, he faced significant pressure and prolonged confusion, especially about **how to do research**.  
 
 <p align="center">
-  <img width="1000" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/5.jpg" />
+  <img width="835" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/5.jpg" />
 </p>
 
 Like many direct-entry Ph.D. students, the transition from undergraduate to doctoral study was not easy. At first, research ideas often felt exciting but lacked academic rigor or feasibility. For his first two years, this uncertainty led to no tangible outputs.
 
 <p align="center">
-  <img width="1000" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/6.jpg" />
+  <img width="835" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/6.jpg" />
 </p>
 
 Things changed in his third year. Through sustained literature reading and reflection, he gradually grasped what constituted a sound research idea and what made good research. This was not a sudden revelation but a gradual transformation that eventually culminated in an “aha” moment — the publication of his first paper. From then on, his research progressed far more smoothly.
@@ -77,7 +77,7 @@ Liu has strong opinions on career planning. From an uninformed high school stude
 2. **Choose a track with a good input-output ratio.** As Charlie Munger said, “Go where the fish are.” Every field requires hard work to succeed, but the payoff varies. Highly competitive industries may demand extraordinary effort for limited returns, while others distribute resources more evenly — allowing solid results without being at the very top.
 
 <p align="center">
-  <img width="1000" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/7.jpg" />
+  <img width="835" alt="image" src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/liuzhewei/7.jpg" />
 </p>
 
 3. **Match your track to your personality and interests.** Passion and recognition of a field’s value are essential for sustained contribution. As economics teaches, behavior is about maximizing utility under constraints — so align interests with available resources to find the most suitable path.
