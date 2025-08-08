@@ -1,4 +1,4 @@
-# GIStory Issue 4 | Lessons Beyond the Page: The Story of the GIS Application Skills Competition
+# GIStory 4 | Lessons Beyond the Page: The Story of the GIS Application Skills Competition
 
 
 ## Guest Introduction
