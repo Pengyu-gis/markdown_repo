@@ -19,7 +19,7 @@ In recent years, GIS has been applied with astonishing breadth across academia a
 When he first began working in GIS development, Mou struggled with limited practical experience. Over time, through more projects, his programming skills improved. One of his most formative experiences was developing a **Power GIS System** for the company. In discussions with users, he discovered that high-voltage power distribution networks were complex, hazardous, and challenging to manage. A GIS system, however, could mitigate risks via remote monitoring and simplify repetitive tasks through spatial analysis, boosting productivity. The successful development of this system greatly facilitated enterprise management and reinforced his determination to focus on engineering GIS applications — a conviction that deeply influenced his later teaching career.
 
 <p align="center">
-  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/2.jpg" alt="" width="1000"/>
+  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/2.jpg" alt="" width="835"/>
 </p>
 
 After years in industry, as his programming skills improved, Mou realized he needed a stronger theoretical foundation. He resolutely enrolled in a Ph.D. program in GIS at China University of Geosciences (Wuhan). During his doctoral training, working alongside his advisor and peers, he gained new perspectives on programming:  
@@ -38,7 +38,7 @@ In an essay, he wrote:
 > “There are two kinds of relationships I consider pure and noble, free from lowly interests. The first is blood relations; no one can compare to that. The second is the teacher-student relationship. From my first day at the podium, I have always reminded myself: One, never to flatter the powerful — this is the integrity of an intellectual; and two, never to misguide students — this is the conscience of a teacher.”
 
 <p align="center">
-  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/3.png" alt="" width="1000"/>
+  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/3.png" alt="" width="835"/>
 </p>
 
 Over nearly twenty years at SDUST, Mou has witnessed the growth of GIS as a discipline while observing students’ varied educational and career paths. He expressed concern that many students lack clear career goals or systematic planning — often following trends without personal reflection, whether it be pursuing graduate studies, job hunting, or studying abroad.
@@ -46,7 +46,7 @@ Over nearly twenty years at SDUST, Mou has witnessed the growth of GIS as a disc
 He gave an example: in one class of 33 students, only three did not pursue graduate school, turning the undergraduate program into a “preparatory class” for entrance exams — often as a refuge from facing employment.
 
 <p align="center">
-  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/4.jpg" alt="" width="1000"/>
+  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/4.jpg" alt="" width="835"/>
 </p>
 
 Prof. Mou warned that many follow the crowd into graduate programs without genuine interest in research, which can lead to poor adaptation and even psychological problems later. He advises students to consider personal circumstances and career fit alongside academic effort.
@@ -66,14 +66,14 @@ This journey began unexpectedly. In earlier years, GIS graduates often struggled
 His first team, composed of 2005 GIS majors, developed a 3D geological borehole visualization platform. Despite first-time nerves, they won second prize in the finals, defeating higher-ranked institutions. Many participants landed excellent jobs thanks to this experience, solidifying Mou’s commitment to competition coaching.
 
 <p align="center">
-  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/5.jpg" alt="" width="1000"/>
+  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/5.jpg" alt="" width="835"/>
 </p>
 
 Nearly two decades later, with stronger GIS industry demand, employment is no longer the main driver. Mou sees competitions as an equalizing platform where students from less prestigious schools can prove themselves alongside elite peers. His mantra to students:  
 > “We can be knocked down, but never intimidated.”
 
 <p align="center">
-  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/6.jpg" alt="" width="1000"/>
+  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/mounaixie/6.jpg" alt="" width="835"/>
 </p>
 
 
