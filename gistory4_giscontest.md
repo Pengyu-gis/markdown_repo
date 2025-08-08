@@ -3,6 +3,9 @@
 
 ## Guest Introduction
 
+<p align="center">
+  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/gisdasai/7.png" alt="" width="800"/><br>
+</p>
 - **Bingqi Xie** — Class of 2019, Honors Program in Geographic Science, East China Normal University (ECNU).  
   Recommended for admission to graduate study at ECNU.
 
@@ -103,10 +106,6 @@ Teamwork was the most cherished gain. Chen said:
 Tang recalled the proctor’s praise:  
 > “We communicated actively, cared about each other’s progress, and no one worked in isolation.”
 
-<p align="center">
-  <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/gisdasai/7.png" alt="" width="800"/><br>
-  <em>Tang Bo's Bilibili account</em>
-</p>
 
 ---
 
