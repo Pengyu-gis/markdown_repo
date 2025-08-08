@@ -1,4 +1,4 @@
-# GIStory Issue 5 | Dr. Song Gao: From Assistant Professor to Tenured Associate Professor
+# GIStory 5 | Dr. Song Gao: From Assistant Professor to Tenured Associate Professor
 
 
 ## Guest Introduction
