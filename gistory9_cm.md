@@ -20,7 +20,7 @@ Chen candidly admitted that he was "quite pragmatic" when choosing his graduate 
 
 
 <p align="center">
-    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cm/2.jpg">
+    <img width=550 src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cm/2.jpg">
 </p>
 
 &gt; **Photo of Chen Min with his advisor, Professor Lu Guonian**
@@ -41,7 +41,7 @@ Reflecting on his academic path, Chen said with emotion: *"I learned unique skil
 
 
 <p align="center">
-    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cm/3.jpg">
+    <img width=650 src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cm/3.jpg">
 </p>
 
 &gt; **Photo of Chen Min (right), Professor Lin Hui (center), and Dr. Hu Mingyuan (left) receiving a Ministry of Education award**
@@ -80,7 +80,7 @@ To achieve this goal, since 2021, Nanjing Normal University, together with the G
 Chen recalled that when they began developing the new platform in 2008–2009, people were not very receptive to the concept of open modelling. But by 2017–2018, as researchers increasingly recognized the value of open science, there was a growing consensus that the more open models and methods are, the more they can be utilized by the broad research community, thereby enjoying the benefits brought by innovative models. Chen emphasized: *"We hope that through this platform, everyone can truly trust and use the latest models developed by researchers in various fields, thereby promoting interdisciplinary collaboration and pushing geographical research to a higher level."*
 
 <p align="center">
-    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cm/6.png">
+    <img width=650 src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cm/6.png">
 </p>
 
 &gt; **News coverage of the successful holding of the first Domestic Geographic Analysis Model Training Workshop**
@@ -124,7 +124,7 @@ Besides paper writing, Chen has also accumulated rich experience in applying for
 Additionally, Chen emphasized the influence of the culture of NNU's School of Geography: **"Pursuing excellence, continuous improvement."** He further explained: *"When teachers in the school write applications for the National Natural Science Foundation, they discuss during the topic selection stage, continue discussing during content writing, and after completion, they review each other's work to ensure the text reaches its best state. This collective sustained effort and close teamwork not only enhances external trust and recognition of our research projects but also enables us to stand out among a large number of fund applications."*
 
 <p align="center">
-    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cm/10.png">
+    <img width=600 src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cm/10.png">
 </p>
 
 &gt; **Article led by Chen Min and international scholars published in *Nature Reviews Earth & Environment***
