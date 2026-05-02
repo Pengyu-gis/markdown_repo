@@ -4,7 +4,9 @@
 
 Cui Yunhe received her bachelor's degree from the University of Illinois at Urbana-Champaign (UIUC) (double major in Geographic Information Science and Cartography & Geology), her master's degree in Applied Urban Informatics from New York University (NYU), and her PhD in Geography from the University of Connecticut (UConn). From 2022 to 2023, she worked as a Research Assistant at the National Renewable Energy Laboratory (NREL). Since 2023, she has been working as a Data Engineer at JPMorgan Chase & Co.
 
-<p align="center"><img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/1.png"></p>
+<p align="center">
+    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/1.png">
+</p>
 
 ## 01 The Winding Path of Exploring Academic Directions
 
@@ -17,7 +19,7 @@ During her brief one-year master's program from 2018 to 2019, she did not immedi
 **Hard work pays off.** During this intensive period of study and career preparation, Cui Yunhe finally found a job in California by the end of her second master's semester, while also receiving an offer to pursue PhD studies at UConn. Due to her higher expectations for the job position and her own development, she ultimately chose to continue her academic path at the University of Connecticut (UConn), pursuing a PhD in **transportation geography**.
 
 <p align="center">
-    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/2.png>
+    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/2.png">
 </p>
 
 &gt; **A photo of Cui Yunhe during her master's studies**
@@ -37,7 +39,7 @@ Her previous continuous efforts allowed Cui Yunhe to stand out from interviews w
 In the summer of 2022, she began searching for internship opportunities during her PhD. The skills and knowledge she had accumulated during her PhD in **project management, data analysis and modeling, and data visualization** also helped her secure a research position internship at the **National Renewable Energy Laboratory (NREL)**. The main content of this internship involved liaising with two state Departments of Transportation (DOTs), deploying NREL-developed accessibility algorithms in cloud environments, and refining related algorithms.
 
 <p align="center">
-    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/3.png>
+    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/3.png">
 </p>
 
 &gt; **Meeting notes from Cui Yunhe's internship**
@@ -78,7 +80,7 @@ Nearly two years of full-time work and internships gave Cui Yunhe a deeper under
 In the above job search process, Cui Yunhe believes there is a consistent key point: **building networks (networking)**. Cui believes that working in an industry and getting to know more practitioners can provide highly timely industry and position information. There are also many ways to build interpersonal relationships: we can actively participate in industry conferences to meet more practitioners; during internships, we can proactively get to know and communicate with colleagues; on online platforms such as LinkedIn, we can actively invite relevant professionals for online or in-person coffee chats; on campus, we can communicate more with teachers, classmates, and seniors.
 
 <p align="center">
-    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/4.jpg>
+    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/4.jpg">
 </p>
 
 &gt; **NREL Campus**
@@ -94,7 +96,7 @@ Although we need to continuously adjust when facing a dynamic life process, Cui 
 While pursuing her PhD, Cui Yunhe developed her own ways to relieve stress. First, she particularly cherished time spent with friends and family. In daily life, chatting more with friends can relieve academic pressure. Second, she found that participating in some extracurricular activities, such as **sports and shopping**, could also effectively relieve stress. Cui Yunhe believes that human willpower is limited, and timely stress regulation is very necessary. One should not be too harsh with oneself, and should not be stingy with self-praise. She firmly believes that people are not machines—we all need appropriate rest space. Although reviewing one's own behavior is a good habit, she reminds us that we do not need to over-review ourselves. Time does not flow backward, and no one can be perfect. Using standards from repeated rehearsals to evaluate oneself at that time is unfair. Through such methods, Cui Yunhe found ways to maintain balance between heavy study, work, and personal life, which also helped her improve her overall life satisfaction.
 
 <p align="center">
-    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/5.jpg>
+    <img src="https://pub-b7009020d42e47bf93fb9f6c95502a87.r2.dev/gisphere_%E8%AE%BF%E8%B0%88/cyh/5.jpg">
 </p>
 
 &gt; **Cui Yunhe sharing photos from outdoor hiking**
